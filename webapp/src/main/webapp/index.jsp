@@ -89,7 +89,7 @@ h1{
     
     <section id="home">
         <header>
-            <span style="font-size:64px;margin-right:10px;color:orange">flipkartraja</span>
+            <span style="font-size:64px;margin-right:10px;color:orange">flipkartguru</span>
             <ul id="menu">
 
                 <li><a href="#about">About Us</a></li>
@@ -102,7 +102,7 @@ h1{
         </header>
          <h1>mobile offers</h1>
     </section>    
-    <section id="about"><h1>this is raja traderse</h1></section>
+    <section id="about"><h1>raja txtails</h1></section>
     <section id="product"><h1>This is the Product Web Page !!</h1></section>
     <section id="pricing"><h1>This is the Pricing</h1></section>
     <section id="contact"><h1>This is the phone Page!</h1></section>
