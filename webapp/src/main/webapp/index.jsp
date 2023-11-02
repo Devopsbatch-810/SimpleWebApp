@@ -100,7 +100,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>mobile offers will be available till 39th november</h1>
+         <h1>mobile offers</h1>
     </section>    
     <section id="about"><h1>This is the About Page</h1></section>
     <section id="product"><h1>This is the Product Web Page !!</h1></section>
